@@ -1,0 +1,16 @@
+pyramid
+pyramid_jinja2
+pyramid_debugtoolbar
+pyramid_tm
+SQLAlchemy
+transaction
+zope.sqlalchemy
+waitress
+psycopg2-binary
+google-generativeai
+requests
+
+[testing]
+WebTest
+pytest
+pytest-cov

@@ -1,0 +1,6 @@
+0.0
+---
+
+- Initial version
+- Product review analysis with AI
+- PostgreSQL integration
